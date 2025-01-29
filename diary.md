@@ -34,3 +34,25 @@ Can't remember how I felt yesterday, the day went by in a blur!
 Today I finally caved and wrote a rather long and detailed prompt to ask ChatGPT how to loop through every room in my allRooms object and change the items' active state to false because I just COULDN'T figure it out. Needed to do some more googling and asking for further explanations but the function is pretty clear to me now and it works. So now, I can load and clear any room and the items within it! While I was at it, I also quickly created an end screen in HTML.
 
 I finally got the base functions! Tomorrow I'll start by rewriting (and simplyfying) the walkthrough and sketching my backgrounds.
+
+## Day 8 – 20th of January
+Today, I mainly spent my time on starting to draw the backgrounds and clickable objects in my game. I have three backgrounds and a looooooot of objects to draw (I'm not sure yet how many exactly) so I'm a little stressed already. But it's going to be fine. Also, I almost completely rewrote the game walkthrough/story. I already realised this when I wrote the first version last monday, but I had to delete almost half of it, and take away a lot of what was supposed to be the games "story".
+
+There's not enough time for everything I want to do :(
+
+## Day 9 – 21st of January
+Today, I mainly continued to draw, draw, draw... but loading all of the images into the game was almost the same amount of work. From the background image not fitting into the window like I envisioned it at all to painfully adjusting every object's size and position over and over again until it fit to the screen size perfectly... I feel like there's a way better and more dynamic way to do this, but I can't figure it out right now. For now, my priority is that it looks good on my laptop for the showcase on friday – after that I will take on this issue again.
+
+I'm tired...
+
+## Day 10 – 22nd of January
+Today I felt like trash – how convenient! I really didn't get a lot of work done sadly, but I worked on little adjustments like (once again) making design changes on the main screen, as well as changing the "intro quote" (before the first room is loaded) and the end screen. I also continued drawing (wow, there is a lot to draw. I don't think I'll touch procreate for a while after this), which, thankfully, was easy to do from my bed. I also had to adjust all the dialogues and the reaction to a click of every object (including all the states). I added them to the code in a pretty messy way before and decided to porperly arrange them again so that I'll have it easier later on (which means, tomorrow. Tommorow's the last day. * sweats*).
+
+## Day 11 – 23rd of January
+I wrecked my brain of how to implement the required animations into my game, since I don't have any characters or enemies (or even objects that would make sense if they looped through a spritesheet the whole time). In the end, I decided to just use very very simple animations in the background to further enhance the feeling and looks of my game. So what I did is make four "sprites" each for two animations: Some bugs flying and crawling around in the main room, and fireflies/dust particles/whatever one wants to call them in the study. The drawing part wasn't hard but I had to do a lot of trying around until the animation loop was working.
+
+When I was finished with the animation and fixing some last issues it was already super late, but I decided to still add in sounds for when the player clicks certain objects. It only took about 45 minutes and I'm glad I did it, because I feel like it improved the immersion of the game quite a lot.
+
+## Day 12 – 24th of January
+It's presentation day! I did it! Yay! * eyebags because I only got 3 hours of sleep last night and overslept*
+I'm very proud of my game, even though I realised while letting other students test play it that there's a few minor issues I have to fix before the final submission. But the game works!

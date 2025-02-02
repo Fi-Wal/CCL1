@@ -5,7 +5,7 @@
 ---
 
 ## 🌱 **Play Calathea Here**
-[Click here to play the game!](link)
+[Click here to play the game!](https://fi-wal.github.io/CCL1/)
 
 ---
 

@@ -12,7 +12,7 @@ function gameLoop(totalRunningTime) {
         if (clickable.active) {
             clickable.draw(global.ctx);
         }
-    })
+    });
 
     global.animated.forEach((animated) => {
         if (animated.active) {

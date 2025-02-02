@@ -15,7 +15,6 @@ const allSounds = {
     cabinet: new Audio('../audio/536414__rudmer_rotteveel__small-padlock-opening.wav'),
     books: new Audio('../audio/369007__flying_deer_fx__whoosh-02-mouth-fx.wav'),
     book: new Audio('../audio/369960__mischy__umblattern-kurz.wav'),
-
 }
 
 export { allSounds }

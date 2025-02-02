@@ -12,10 +12,10 @@ let allItems = {
 
         Calathea: new Clickable({
                 name: 'Calathea',
-                source: 'CalatheaDry.png',
-                x: 0.38,
+                source: 'calatheaDry.png',
+                x: 0.33,
                 y: 0.075,
-                width: 0.32,
+                width: 0.34,
                 height: 0.75,
                 ifClicked: function() {
                     // all of the items contain if...else statements, to check if certain actions have been completed yet / if items have been "picked up"

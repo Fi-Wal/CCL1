@@ -5,8 +5,6 @@
 
 body {
     background-color: #102a14;
-    padding: 0;
-    margin: 0;
 }
 
 #canvas {
@@ -25,7 +23,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding-top: 18em;
+    text-justify: center;
     text-align: center;
     background-color: #102a14;
     background-image: url("../images/test_background.png");
@@ -60,13 +58,6 @@ body {
     background-color: #102a14;
     display: none;
 }
-
-/* #dialogue {
-    font-size: 1em;
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
-    background-color: beige; */
-/* } */
 
 #background {
     position: fixed;

@@ -5,7 +5,8 @@
 ---
 
 ## 🌱 **Play Calathea Here**
-[Click here to play the game!](https://fi-wal.github.io/CCL1/)
+Sadly, hosting the game on gitHub pages did not work for me even after hours of trying, so I hosted it on Campus Cloud instead;
+[Click here to play the game!]([https://fi-wal.github.io/CCL1/](https://cc241027-21016.php.fhstp.cc/))
 
 ---
 

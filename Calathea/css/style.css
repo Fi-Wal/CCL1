@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
+@import url("https://use.typekit.net/wwe5bps.css");
+
+body {
+    background-color: #102a14;
+    padding: 0;
+    margin: 0;
+}
+
+#canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+}
+
+#startScreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 18em;
+    text-align: center;
+    background-color: #102a14;
+    background-image: url("../images/test_background.png");
+    background-size: cover;
+}
+
+#endScreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 5%;
+    text-align: center;
+    text-justify: center;
+    background-color: #102a14;
+    background-image: url("../images/test_background.png");
+    display: none;
+}
+
+#introScreen {
+    padding-top: 18em;
+    text-align: center;
+    position: absolute;
+    left: 0;
+    top: -100px;
+    width: 100vw;
+    height: 1100px;
+    background-color: #102a14;
+    display: none;
+}
+
+/* #dialogue {
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: beige; */
+/* } */
+
+#background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: Fleur De Leah, serif;
+    font-weight: 100;
+    font-size: 18em;
+    color: #ffffff;
+    margin-bottom: -70px;
+}
+
+h2 {
+    padding: 4em;
+    margin-bottom: -3.5em;
+    font-family: filson-soft, sans-serif;
+    font-weight: 200;
+    font-size: 4.5em;
+    color: #ffffff;
+}
+
+h3 {
+    margin-top: 25px;
+    font-family: filson-soft, sans-serif;
+    font-weight: 200;
+    font-size: 2.5em;
+    color: #ffffff;
+}
+
+#startButton {
+    margin-top: 20px;
+    width: 300px;
+    height: 120px;
+    font-family: filson-soft, sans-serif;
+    font-weight: 600;
+    font-size: 3.7em;
+    background-color: #d0fbba;
+    border-style: solid;
+    border-color:rgb(7, 66, 7);
+    border-radius: 20px;
+    border-width: 5px;
+    color: rgb(7, 66, 7);
+}

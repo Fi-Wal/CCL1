@@ -14,7 +14,7 @@
 
 ### Menu and UI:
 <div style="text-align: center;">
-  <img src="startScreen.png" alt="Menu UI Screenshot" width="600">
+  <img src="/pictures/startScreen.png" alt="Menu UI Screenshot" width="600">
   <p>*Figure 1: Start screen of the game.*</p>
 </div>
 
@@ -22,7 +22,7 @@
 
 ### Main Gameplay:
 <div style="text-align: center;">
-  <img src="firstRoom.png" alt="Gameplay Screenshot" width="600">
+  <img src="/pictures/firstRoom.png" alt="Gameplay Screenshot" width="600">
   <p>*Figure 2: Player's view when they start the game.*</p>
 </div>
 
@@ -34,19 +34,19 @@ Although there's no classic player character or enemies, background animations w
 
 ### Plants and Items:
 <div style="display: flex; flex-direction: flex-wrap;">
-  <img src="calatheaDry.png" alt="Dry state of calathea" width="180">
-  <img src="calatheaWatered.png" alt="Watered state of calathea" width="180">
-  <img src="calatheaFertilized.png" alt="Fertilized state of calathea" width="180">
-  <img src="calatheaTrimmed.png" alt="Trimmed state of calathea" width="180">
-  <img src="calatheaLoved.png" alt="End state of calathea" width="180">
+  <img src="/pictures/calatheaDry.png" alt="Dry state of calathea" width="180">
+  <img src="/pictures/calatheaWatered.png" alt="Watered state of calathea" width="180">
+  <img src="/pictures/calatheaFertilized.png" alt="Fertilized state of calathea" width="180">
+  <img src="/pictures/calatheaTrimmed.png" alt="Trimmed state of calathea" width="180">
+  <img src="/pictures/calatheaLoved.png" alt="End state of calathea" width="180">
   <p>*Figures 3-7: Different appearances of the calathea throughout the gameplay.*</p>
 </div>
 
 <div style="display: flex;">
-  <img src="wateringCan.png" alt="watering can png" width="100">
-  <img src="book.png" alt="book png" width="80">
-  <img src="valve.png" alt="valve png" width="40">
-  <img src="shears.png" alt="shears png" width="40">
+  <img src="/pictures/wateringCan.png" alt="watering can png" width="100">
+  <img src="/pictures/book.png" alt="book png" width="80">
+  <img src="/pictures/valve.png" alt="valve png" width="40">
+  <img src="/pictures/shears.png" alt="shears png" width="40">
   <p>*Figure 8-11: An assortment of clickable items in the game.*</p>
 </div>
 
